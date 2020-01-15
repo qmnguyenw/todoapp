@@ -1,0 +1,13 @@
+pillow
+django 
+django-rest-framework
+django-filter
+
+
+Note: 
+127.0.0.1:8000/
+127.0.0.1:8000/task
+127.0.0.1:8000/completed_task
+127.0.0.1:8000/due_task
+127.0.0.1:8000/task/?completed=True
+127.0.0.1:8000/task/?search=Gym
