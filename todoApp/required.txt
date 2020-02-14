@@ -11,3 +11,7 @@ Note:
 127.0.0.1:8000/due_task
 127.0.0.1:8000/task/?completed=True
 127.0.0.1:8000/task/?search=Gym
+
+quang - 1
+admin -
+admin123 
